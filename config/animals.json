@@ -1,0 +1,10 @@
+[
+  {
+    "kind": "lion",
+    "sound": "roar"
+  },
+  {
+    "kind": "tiger",
+    "sound": "grrr"
+  }
+]
