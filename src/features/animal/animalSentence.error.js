@@ -1,5 +1,5 @@
 function AnimalSentenceError(message) {
-  this.kind = 'AnimalSentenceError';
+  this.name = 'AnimalSentenceError';
   this.message = message;
 }
 

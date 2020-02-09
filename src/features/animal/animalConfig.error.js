@@ -7,7 +7,7 @@ const soundErrorMessage = `sound ${baseMessage}`;
 
 /** @param {'kind' | 'sound'} message */
 function AnimalConfigError(message) {
-  this.kind = 'AnimalConfigError';
+  this.name = 'AnimalConfigError';
   this.message = message === ANIMAL_CONFIG_KIND
     ? kindErrorMessage
     : soundErrorMessage;

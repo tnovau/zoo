@@ -1,5 +1,5 @@
 function AnimalKindError(message) {
-  this.kind = 'AnimalKindError';
+  this.name = 'AnimalKindError';
   this.message = message;
 }
 

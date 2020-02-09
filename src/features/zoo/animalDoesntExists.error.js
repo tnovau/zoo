@@ -1,5 +1,5 @@
 function AnimalDoesntExistsError(message) {
-  this.kind = 'AnimalDoesntExistsError';
+  this.name = 'AnimalDoesntExistsError';
   this.message = message;
 }
 
